@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Problem+Solver;Competitive+Programmer+%7C+C%2B%2B+Developer;Python+%7C+JavaScript+Enthusiast;AI+%26+Web+Development+Explorer;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusher466&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -180,50 +177,6 @@ Optimization
         ↓
 Accepted ✅
 ```
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tusher466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusher466&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tusher466&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusher466&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/tusher466/tusher466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</p>
-
-> The snake animation is generated automatically from my GitHub contribution graph.
 
 ---
 
