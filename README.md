@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Problem+Solver;Competitive+Programmer+%7C+C%2B%2B+Developer;Python+%7C+JavaScript+Enthusiast;AI+%26+Web+Development+Explorer;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tusher466&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -219,7 +219,7 @@ Accepted ✅
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tusher466/tusher466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </p>
 
